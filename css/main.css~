@@ -1,6 +1,6 @@
 html, body {
   background-color:#333;
-  font-family: 'Inder', sans-serif;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .profile-pic {
@@ -13,4 +13,12 @@ html, body {
 
 .margin-on-top {
   margin-top:50px;
+}
+
+.info-text {
+  font-size: 18px;
+}
+
+.force-default-cursor {
+  cursor:default;
 }
