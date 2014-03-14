@@ -109,7 +109,7 @@
 					slides 					:  	[			// Slideshow Images
 														{image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/kazvan-1.jpg'},
 														{image : 'imgs/coding.png'},  
-														{image : 'imgs/tennis.jpg'},
+														{image : 'http://buildinternet.s3.amazonaws.com/projects/supersized/3.2/slides/kazvan-3.jpg'},
 														{image : 'imgs/travel.jpg'}
 												],
 												
