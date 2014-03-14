@@ -25,6 +25,20 @@
         </div>
       </div>
     </nav>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 text-center">
+          <div class="well well-sm info-box">
+            <h3 id="home_text">I am Miguel. I have played competition tennis for more than 15 years. Now I am a researcher on the robotics field, a constant learner, a tennis coach, and a code developer. I am a fanatic for travelling and for meeting new people and cultures.</h3>
+            <h3 id="computer_text">A coder. A nice geek. A tech lover.</h3>
+            <h3 id="tennis_text">7000 hours on court. 5 million ball hits. Passion and sacrifice.</h3>
+            <h3 id="travel_text">Adventures, friends, knowledge and always a beer at the end of the day.</h3>
+          </div>
+        </div>
+        <div class="col-md-2"></div>
+      </div>
+    </div>
     <nav class="navbar navbar-default navbar-fixed-bottom footer" role="navigation">
       <div class="container text-center">
         <a href="http://www.linkedin.com/pub/miguel-arag%C3%A3o/64/8b5/470" target="_blank"><img src="imgs/linkedin.png" alt="..." class="img-circle social-icon"></a>
@@ -42,36 +56,47 @@
     <script src="js/jquery.easing.min.js"></script>
   </body>
   <script>
-  
+    $("#computer_text").hide();
+    $("#tennis_text").hide();
+    $("#travel_text").hide();
+    
     function cleanIcons() {
       $("#home").attr("src","imgs/home.png");
       $("#computer").attr("src","imgs/computer.png");
       $("#tennis").attr("src","imgs/tennis.png");
       $("#travel").attr("src","imgs/airplane.png");
+      $("#home_text").hide();
+      $("#computer_text").hide();
+      $("#tennis_text").hide();
+      $("#travel_text").hide();
     }
   
     $("#home").click(function(){
 	    api.goTo(1);
 	    cleanIcons();
 	    $(this).attr("src","imgs/home_hover.png");
+	    $("#home_text").show();
     });
     
     $("#computer").click(function(){
 	    api.goTo(2);
 	    cleanIcons();
 	    $(this).attr("src","imgs/computer_hover.png");
+	    $("#computer_text").show();
     });
     
     $("#tennis").click(function(){
 	    api.goTo(3);
 	    cleanIcons();
 	    $(this).attr("src","imgs/tennis_hover.png");
+	    $("#tennis_text").show();
     });
     
     $("#travel").click(function(){
 	    api.goTo(4);
 	    cleanIcons();
 	    $(this).attr("src","imgs/airplane_hover.png");
+	    $("#travel_text").show();
     });
   
     jQuery(function($){

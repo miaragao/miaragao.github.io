@@ -4,6 +4,7 @@ html, body {
 
 body {
   padding-bottom: 70px;
+  padding-top: 170px;
 }
 
 .header {
@@ -46,4 +47,13 @@ body {
 
 .force-default-cursor {
   cursor:default;
+}
+
+.info-box {
+  color:white;
+  border:1px;
+  border-style:solid;
+  border-color:white;
+  background-color:#333;
+  opacity:0.8;
 }
