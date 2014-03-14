@@ -32,7 +32,7 @@
           <div class="well well-sm info-box">
             <h2 id="home_text">Developer. Tennis coach and former player. Researcher. Traveller.</h2>
             <h2 id="computer_text">{ A coder, A geek, A tech lover }</h2>
-            <h2 id="tennis_text">[7000] hours on court | [5] million ball hits | Passion and sacrifice</h2>
+            <h2 id="tennis_text">[7000 hours on court] [5 million ball hits] [Passion and sacrifice]</h2>
             <h2 id="travel_text">#Adventures #Friends #SunsetsAndBeers</h2>
           </div>
         </div>
@@ -110,7 +110,7 @@
 					stop_loop				:	0,			// Pauses slideshow on last slide
 					random					: 0,			// Randomize slide order (Ignores start slide)
 					slide_interval  : 3000,		// Length between transitions
-					transition      : 1, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
+					transition      : 4, 			// 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
 					transition_speed:	200,		// Speed of transition
 					new_window		  :	1,			// Image links open in new window/tab
 					pause_hover     : 0,			// Pause slideshow on hover
