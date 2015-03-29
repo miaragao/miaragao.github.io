@@ -166,10 +166,6 @@ table { border-collapse: collapse; border-spacing: 0; }
     content: "\f442";
 }
 
-.my-blog-logo {
-    color: #fff;
-}
-
 
 /* ==========================================================================
    2. General - Setting up some base styles
@@ -776,7 +772,6 @@ body.nav-opened .nav {
     height: 38px;
     padding: 1px 0 5px 0;
     width: auto;
-    color: #fff;
 }
 
 .menu-button {
