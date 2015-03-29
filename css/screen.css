@@ -29,7 +29,19 @@
 }
 
 .photo-credits {
+    position: relative;
+    width: 80%;
+    max-width: 710px;
+    margin: 4rem auto;
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.3rem;
+    color: #9EABB3;
     text-align: center;
+}
+
+.photo-credits a {
+    color: #9EABB3;
+    transition: all 0.2s ease;
 }
 
 /* ==========================================================================
