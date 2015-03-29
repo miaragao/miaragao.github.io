@@ -32,10 +32,10 @@
     position: relative;
     width: 80%;
     max-width: 710px;
-    margin: 4rem auto;
+    margin: 4rem auto -5rem;
     font-family: "Open Sans", sans-serif;
-    font-size: 1.3rem;
-    color: #9EABB3;
+    font-size: 1.2rem;
+    color: #4a4a4a;
     text-align: center;
 }
 
@@ -63,7 +63,7 @@ html {
 }
 body { margin: 0; }
 a { background: transparent; }
-a:focus { outline: thin dotted; }
+a:focus { outline: 0; }
 a:active, a:hover { outline: 0; }
 h1 { font-size: 2em; margin: 0.67em 0; }
 abbr[title] { border-bottom: 1px dotted; }
