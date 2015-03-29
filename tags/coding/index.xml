@@ -2,27 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on mikearagao</title>
-    <link>/tags/coding/</link>
+    <link>http://localhost:1313/tags/coding/</link>
     <description>Recent content in Coding on mikearagao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Sun, 29 Mar 2015 02:54:28 +0100</lastBuildDate>
-    <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hey Peeps!</title>
-      <link>/post/hey-peeps/</link>
+      <link>http://localhost:1313/post/hey-peeps/</link>
       <pubDate>Sun, 29 Mar 2015 02:54:28 +0100</pubDate>
       
-      <guid>/post/hey-peeps/</guid>
+      <guid>http://localhost:1313/post/hey-peeps/</guid>
       <description>&lt;p&gt;Hey! Hmm&amp;hellip; This is weird! I am on the other side now.&lt;/p&gt;
 
 &lt;p&gt;Usually I&amp;rsquo;m reading the words of others but today it&amp;rsquo;s different. I&amp;rsquo;m actually feeling powerful. I can say whatever I want to almost everyone in the world&amp;hellip; I just don&amp;rsquo;t get why I didn&amp;rsquo;t start this project before! Right now you might be starting to understand how crazy I am but I can asure you that I try really hard to look normal around other people so feel free to get in touch with me.&lt;/p&gt;
 
-&lt;p&gt;Just to give you an overview of my non-blogger life (basically till yesterday) I can say that I&amp;rsquo;m crazy about coding and new technologies, mainly web development, and I have been playing tennis since I was 4 years old. Although I do not compete anymore I still coach little deamons on Saturdays.&lt;/p&gt;
+&lt;p&gt;Just to give you an overview of my non-blogger life (basically till yesterday) I can say that I&amp;rsquo;m crazy about coding and new technologies, mainly web development, and I have been playing tennis since I was 4 years old. Although I do not compete anymore I still coach little deamons on Saturdays. I absolutely love to travel and I have one eternal idol - &lt;a href=&#34;https://twitter.com/rogerfederer&#34;&gt;@rogerfederer&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;As of today my life just got better because I found out blogging is awesome (kudos to &lt;a href=&#34;https://twitter.com/spf13&#34;&gt;@spf13&lt;/a&gt;)! I know I&amp;rsquo;m not an expert on blogging tools but damn this one looks sexy and it is so nice to use! I strongly recommend you to snoop it around and I wish you can have as much fun as me - &lt;a href=&#34;http://gohugo.io/&#34;&gt;gohugo.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I won&amp;rsquo;t take you much more time because this is just a little something about me and about what I want with this project. Basically I want to share with you some of my life experiences but not just coding related. One of my main goals is to be able to get in touch with amazing people with crazy ideas and ways of thinking!&lt;/p&gt;
+
+&lt;p&gt;I now leave you with the one true king.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/post/king-roger.jpg&#34; alt=&#34;Roger Federer&#34; /&gt;
+&lt;/p&gt;
 </description>
     </item>
     
