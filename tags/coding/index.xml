@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding on mikearagao</title>
-    <link>http://localhost:1313/tags/coding/</link>
+    <link>/tags/coding/</link>
     <description>Recent content in Coding on mikearagao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - 2015</copyright>
     <lastBuildDate>Sun, 29 Mar 2015 02:54:28 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/coding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Hey Peeps!</title>
-      <link>http://localhost:1313/post/hey-peeps/</link>
+      <link>/post/hey-peeps/</link>
       <pubDate>Sun, 29 Mar 2015 02:54:28 +0100</pubDate>
       
-      <guid>http://localhost:1313/post/hey-peeps/</guid>
+      <guid>/post/hey-peeps/</guid>
       <description>&lt;p&gt;Hey! Hmm&amp;hellip; This is weird! I am on the other side now.&lt;/p&gt;
 
 &lt;p&gt;Usually I&amp;rsquo;m reading the words of others but today it&amp;rsquo;s different. I&amp;rsquo;m actually feeling powerful. I can say whatever I want to almost everyone in the world&amp;hellip; I just don&amp;rsquo;t get why I didn&amp;rsquo;t start this project before! Right now you might be starting to understand how crazy I am but I can asure you that I try really hard to look normal around other people so feel free to get in touch with me.&lt;/p&gt;
@@ -28,7 +28,7 @@
 
 &lt;p&gt;I now leave you with the one true king.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/post/king-roger.jpg&#34; alt=&#34;Roger Federer&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;/images/post/king-roger.jpg&#34; alt=&#34;Roger Federer&#34; /&gt;
 &lt;/p&gt;
 </description>
     </item>
